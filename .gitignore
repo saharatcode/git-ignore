@@ -1,2 +1,4 @@
 *.html
 *.css
+node_module/
+*.js
